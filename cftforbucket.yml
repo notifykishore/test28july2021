@@ -3,7 +3,7 @@ Description: Creation of S3 Bucket
 Parameters:
   BucketName:
     Type: String
-    Default: test-bucket-27july2021-2
+    Default: test-bucket-27july2021-3
 Resources:
   MyS3Bucket:
     Type: AWS::S3::Bucket
