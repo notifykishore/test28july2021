@@ -1,4 +1,4 @@
-def hello(name)
+def hello()
 {
-  sh 'hi this is {$name}'
+  echo 'hi this is kishore'
 }
